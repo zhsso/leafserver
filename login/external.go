@@ -1,7 +1,7 @@
 package login
 
 import (
-	"server/login/internal"
+	"github.com/zhsso/leafserver/login/internal"
 )
 
 var (

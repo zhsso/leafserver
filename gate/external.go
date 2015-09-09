@@ -1,7 +1,7 @@
 package gate
 
 import (
-	"server/gate/internal"
+	"github.com/zhsso/leafserver/gate/internal"
 )
 
 var (

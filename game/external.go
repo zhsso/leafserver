@@ -1,7 +1,7 @@
 package game
 
 import (
-	"server/game/internal"
+	"github.com/zhsso/leafserver/game/internal"
 )
 
 var (
